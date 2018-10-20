@@ -1,6 +1,6 @@
 ---
-title: Treehouse
-subtitle: Website Design
+title: The Next Generation
+subtitle: what today's kids are learing
 layout: default
 modal-id: 4
 date: 2014-07-15
