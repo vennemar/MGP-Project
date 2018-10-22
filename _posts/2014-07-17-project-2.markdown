@@ -1,5 +1,5 @@
 ---
-title: SpaceX Announces First Commercial Space Station 
+title: SpaceX's New Project
 subtitle: Future News
 layout: default
 modal-id: 2
@@ -7,9 +7,10 @@ date: 2014-07-17
 img: BFR_Full_Size.jpg
 thumbnail: BFR_thumbnail.jpg
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
+project-date: April 2022
+client: 
 category: News Article
-description: SpaceX CEO Elon musk announced the opening a center of operations for space-based industry. Musk’s "Moon Base” will be a logistics hub for the company’s new earth to space hauling service. The Transportation is to be provided by the BFR Platform widely used in the SpaceX earth to earth passenger and cargo hauling services. “The earth to space hauling will use the same infrastructure used in our current global transportation services”. In addition to the construction of the new moon base, SpaceX is expanding the sea-based launch platforms that up until now have been used for quick transportation of cargo and people to the other side of the world. “Think of this as just another destination on the SpaceX roster. Our BFR spacecraft will launch into low earth orbit, and instead of coming back down to one of our earth-based platforms, it continues on to the moon. The whole trip should take about the same about of time as our 34-minute London to Honk Kong flight.
-
+description: 
 ---
+
+SpaceX CEO Elon musk announced the opening a center of operations for space-based industry. Musk’s "Moon Base” will be a logistics hub for the company’s new earth to space hauling service. The Transportation is to be provided by the BFR Platform widely used in the SpaceX earth to earth passenger and cargo hauling services. “The earth to space hauling will use the same infrastructure used in our current global transportation services” said musk. In addition to the construction of the new moon base, SpaceX is expanding the sea-based launch platforms that up until now have been used for quick transportation of cargo and people to the other side of earth. “Think of this as just another destination on the SpaceX roster. Our BFR spacecraft will launch into low earth orbit, and instead of coming back down to one of our earth-based platforms, it continues on to the moon. The whole trip should take about the same about of time as our 34-minute London to Honk Kong flight." There has been much speculation as to what kinds of ventures will spring up now that SpaceX has opened the gates to lunar industry. The possibilities range from space mining, to research labs, to indurstrial processesing that is dangerous, or might damage surrounding ecology if conducted on earth.  Though SpaceX has not released an official statement, they are reportedly looking for partners to invest in a moon based mineral extraction business.

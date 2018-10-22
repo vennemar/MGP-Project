@@ -4,12 +4,20 @@ subtitle: what today's kids are learing
 layout: default
 modal-id: 4
 date: 2014-07-15
-img: treehouse.png
-thumbnail: treehouse-thumbnail.png
+img: next-gen-of-tech-2.jpeg
+thumbnail: next-gen-of-tech-1.jpeg
 alt: image-alt
-project-date: April 2014
+project-date: October 2018
 client: Start Bootstrap
-category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+category: Interview
+description: 
 
 ---
+
+The introduction of a new technology into society inevitably changes the way we live, and for the very young, it can fundamentally change the way they are raised. To understand how today’s technology is affecting the next generation. I spoke with my father, Jim Vennemeyer.  Jim is a 5th grade technology teacher in Mason, OH; he also teaches a class as an adjunct professor at Xavier University to education students in both graduate and undergraduate programs. In his career he has worked as the curriculum leader for instructional technology, where he helped teachers in the mason city school system to use technology effectively in the classroom. 
+
+In his fifth-grade classes, students learn basic programming logic, and critical thinking skills. “Because technology is so fast paced, a lot of skills are very perishable.” Jim said, “I don’t want to focus on skills that can’t be transferable, so a lot of my focus is on helping students to learn and think and problem solve in ways that they can apply to whatever technologies are happening today, and even ones that come in the future.” Even though not all students will become computer programmers, the computer skills they learn are designed to be helpful in all areas of life. “Learning how to think, learning how to learn, learning how to problem solve, those go across all professions.” In class, students are taught basic programming logic using code.org and a language called Blockly, and starting this year students will use swift, a programming language for iOS; as well as swift playgrounds, an app released by apple that is designed to teach basic programming in swift, to apply the ideas they learned in blockly in a new language.
+
+“With my students at the university level, my approach is in some ways very similar … we talk a lot about technology as being thought of as a tool and learning how to use it effectively. We start off by looking at a lot of different learning theories, so that students understand what research says about how people learn. Then we also look at what students at different grade levels should be learning, so we look at standards, and then the rest of the course is delving into current technologies, and strategies for implementing that.”
+
+Across his curriculum Jim focuses on building a literacy of understanding computers and programming logic, so that students walk away with skills they can apply in whatever path they take in life. “I think coding is in every walk of life or discipline ... You can use that no matter what you’re trying to do.”'

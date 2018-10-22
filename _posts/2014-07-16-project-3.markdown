@@ -1,5 +1,5 @@
 ---
-title: Gadget Corner
+title: Great New Gear
 subtitle: The latest and greatest new gadgets.
 layout: default
 modal-id: 3
