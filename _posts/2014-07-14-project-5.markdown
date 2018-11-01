@@ -1,5 +1,5 @@
 ---
-title: Notes
+title: Notes/Works Cited
 subtitle: Editor's notes and Works Cited page
 layout: default
 modal-id: 5
@@ -13,3 +13,53 @@ category: Web Development
 description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
 
 ---
+
+### Notes
+
+With this project, I wanted to look at the future of technology. It’s an interesting subject, and one that gets a lot of attention, but I wanted to approach the topic from the lens of how technology will affect our daily lives. That’s really why we make technology in the first place right? I want to put the focus on the changes that the average person will see as we move into the future. After all, the newest iPhone doesn’t matter if it doesn’t improve the way people live, work, and play.
+
+### Works Cited
+
+<pre>
+Bassingthwaighte, Mark. “26 Actions to Take To Become Cyber Secure.” Solo Practice
+    University®, Solo Practice University®, 21 Aug. 2018, solopracticeuniversity.com/2018/08/21/26-actions-to-take-to-become-cyber-secure/.
+
+“Blacksmithing Ancient Egyptian Copper Chisels.” Pinterest, Instructables, 
+    www.pinterest.com/pin/494762709033401065/.
+
+Carr, Karen. “Who Invented Paper? Ancient China and the History of Paper.” Quatr.us Study 
+    Guides, 2 Oct. 2018, quatr.us/china/invented-paper-ancient-china.htm.
+
+Dughi, Paul. “A Simple Explanation of How Blockchain Works – The Mission – 
+    Medium.” Medium, The Mission, 4 Feb. 2018, medium.com/the-mission/a-simple-explanation-on-how-blockchain-works-e52f75da6e9a.
+
+“Electronic Gadgets with Huge Discounts.” Siliconindia, Siliconindia, 16 Aug. 2016, 
+    www.siliconindia.com/gadget/news/Electronic-Gadgets-with-Huge-Discounts-nid-197691.html.
+
+Fischer, Andrew. “How Regulation and Technology Are Shaping the Future of Privacy and 
+    Security.” Home - Enterprise & Government - Australia Post, Australia Post, 26 May 2017,auspostenterprise.com.au/insights/digitising-services/future-of-privacy-and-security-using-tech.
+
+Jewitt, Tom. “Image Development, Steam Engine - Tom Jewett.” Tom Jewett Photography, 
+    2018, www.tomjewettphotography.com/TechyStuff/Image-Development-Steam-Engine/.
+
+Kharpal, Arjun. “Samsung Launches Its First Triple Camera Smartphone in a Shift to Its
+    Mid-End Strategy.” CNBC, CNBC, 20 Sept. 2018 www.cnbc.com/2018/09/20/samsung-galaxy-a7-company-launches-its-first-triple-camera-smartphone.html.
+
+Koenig, Brett. “Blockchain, Worth More Than a Bitcoin.” ACM@UC General Body Meeting.
+    ACM@UC General Body Meeting, 13 Sept. 2018, Cincinnati, OH
+
+“Lecture on 'Vallejo's Printing Press' at Sonoma Mission.” Sonoma Index Tribune, Sonoma 
+    Index Tribune, 8 Sept. 2018 www.sonomanews.com/news/8692965-181/lecture-on-vallejos-printing-press.
+
+“Mars.” SpaceX, SpaceX, 20 Sept. 2016, www.spacex.com/mars.
+
+“Mellon Farms.” Mellon Farms, 2018, mellonfarms.com/.
+
+“Radio Clipart Old Radio ~ Frames ~ Illustrations ~ HD Images ~ Photo 
+    Designs.” Kathleenhalme, kathleenhalme.com/explore/radio-clipart-old-radio/.
+
+Scharping, Nathaniel. “Teaching Old-School Light Bulbs a New Trick.” D-Brief, Discover,
+    12 Jan. 2016, blogs.discovermagazine.com/d-brief/2016/01/12/reinventing-the-lightbulb/.
+
+“Wheel.” Wikipedia, Wikimedia Foundation, 1 Nov. 2018, en.wikipedia.org/wiki/Wheel.
+</pre>

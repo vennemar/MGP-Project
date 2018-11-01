@@ -7,9 +7,30 @@ date: 2014-07-15
 img: security.png
 thumbnail: security.png
 alt: image-alt
-project-date: April 2014
+project-date: October 2018
 client: Start Bootstrap
-category: Web Development
+category: Research Paper
 description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
 
 ---
+
+Alex Vennemeyer<br>
+Professor Houston<br>
+English 2089<br>
+1 Nov 2018<br>
+
+#### Understanding Blockchain and its Applications
+
+Known for its role in the recent cryptocurrency craze, Blockchain has become one of the most over-hyped technologies of the past two years. The technology’s benefits are real, but … what are they? What isBlockchain for that matter? The hype around the technology has had investors jumping on the blockchain train without really understanding it. while blockchain has been wildly over-hyped, the technology still has a lot of potential to affect the future. Blockchain technology is a groundbreaking building block for new systems because it is trustworthy, decentralized, and anonymous.
+
+What is blockchain? As a result of all the media attention surrounding the technology there’s a lot of misunderstanding surrounding blockchain. The official and somewhat academic sounding definition says that Blockchain is essentially a Decentralized, public ledger for information (Koenig). The Idea is that information, such as contracts, financial transactions, or medical records can be recorded, referenced, and more Importantly trusted as a record of past events. This makes it ideal for situations where information needs to be trusted, and referenced by multiple people
+
+How does blockchain work? A Blockchain is a data structure consisting of a series of nodes, called blocks that contain information. Each block represents an addition or change to the state of the records kept on the blockchain. Each block also contains a reference to the next block in line, a hash value, and the hash of the block behind it. The process of finding these hash values is that part of the process that is called mining. The hash value is just a long string of numbers produced by a hash Algorithm. A hash algorithm is a process that produces radically different outputs given a small change in inputs. In this case the machines connected to the blockchain need to find the input number that when given to the hash algorithm along with the contents of the block produces a hash value that meets certain requirements set by the blockchain (in bitcoin, a valid hash contains a specific number of zeros on the front of it). The way the hash algorithm is designed makes it impossible to find the hash value by any method other than guessing inputs and checking the output against the criteria for a valid hash. Once a valid hash is found, the other computers in the network verify that a valid hash has been found and publish the new block onto the blockchain.
+
+Blockchain is an important development because the way information is stored is inherently trustworthy. The hashing process is designed so that in order to alter the contents of a block, you would need to re-hash every block after it in the chain. This becomes difficult to do without the help of the network of computers, and moreover, an attacker would have to convince the other computers in the network that the blockchain suddenly had different value. “Since there’s no central location, it harder to hack since the info exists simultaneously in millions of places.”(Dughi) This means that important records are difficult to change or alter once they have been added to the blockchain, so you can trust they have not been tampered with.
+
+Another Important element of blockchain is that it is decentralized. The blockchain is managed by a network of computers. There is no single authority that controls it. This facet of the technology creates the possibility for major changes in the way we organize systems around the world. Take the example of cryptocurrency. it removes the need for a centralized banking institution for financial transactions. There’s not even a government or other such institution managing the currency. This does tend to cause a higher risk, because there is less concrete control; but it also frees the currency from the control of a corrupt or mismanaging authority. Blockchain allows the democratization of things that otherwise would not be as open and transparent to the public.
+
+A final feature that has important implications for the use of blockchain is the option of anonymity. Users of a blockchain are typically identified via a public ID. Depending on the implementation, this means that users can be tied anonymously to their interactions with any blockchain based process. This is one of the main reasons why the creator of bitcoin, known by the pseudonym Satoshi Nakamoto has yet to have his true identity revealed. This feature can be used to protect user privacy in situations where sensitive information is handled. Since the blockchain is a public ledger, it doesn’t make sense to keep secret information there, but it can at least protect users from being tied to medical records that were used in a research study, or in the case of Satoshi Nakamoto, it can protect him from people who want to steal or scam him out of his share of bitcoin, currently worth over 19 billion US dollars.
+
+It won’t come close to solving all of our problems, but blockchain is a technology that has the potential to affect important aspects of our lives. As more of our lives become integrated with technology, blockchain’s trustworthy design, decentralized infrastructure, and protection of personal identity create a new and powerful framework for future innovation. 
